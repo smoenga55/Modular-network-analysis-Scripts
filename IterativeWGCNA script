@@ -1,0 +1,3 @@
+#!/bin/bash
+
+iterativeWGCNA -i /iterativeWGCNA/Transformed_count_Files/shoot_voom.txt --wgcnaParameters maxBlockSize=5000,randomSeed=54321,corType=bicor,saveTOMs=TRUE,power=10 --enableWGCNAThreads --finalMergeCutHeight 0.3 --gzipTOMs -o /Ret_out
