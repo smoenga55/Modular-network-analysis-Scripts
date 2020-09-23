@@ -1,0 +1,1 @@
+minModuleSize = 20,saveTOMs = FALSE,minKMEtoStay = 0.8,minCoreKME = 0.8,reassignThreshold = 0.05,networkType = 'signed',numericLabels = TRUE,power =26, maxBlockSize = 5000,randomSeed = 54321,corType=bicor
